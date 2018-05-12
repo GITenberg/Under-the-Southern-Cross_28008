@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3274
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28008#Under-the-Southern-Cross
 gutenberg_issued: '2009-02-05'
 gutenberg_type: Text
 identifiers:
