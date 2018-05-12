@@ -1,0 +1,41 @@
+_repo: Under-the-Southern-Cross_28008
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rae, John
+    birthdate: 1882
+    deathdate: 1963
+    gutenberg_agent_id: '26297'
+    url: http://www.gutenberg.org/2009/agents/26297
+covers:
+- cover_type: archival
+  image_path: 28008-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Robins, Elizabeth
+    aliases:
+    - Parkes, Elizabeth Robins
+    - Raimond, C. E.
+    - Parks, Elizabeth Robins
+    - Parks, Mrs. George Richmond
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '3274'
+    url: http://www.gutenberg.org/2009/agents/3274
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins
+description: ''
+gutenberg_issued: '2009-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Ocean travel -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+title: Under the Southern Cross
+url: http://www.gutenberg.org/ebooks/28008
